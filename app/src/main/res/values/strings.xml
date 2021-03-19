@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parsta</string>
+    <string name="login" />
+    <string name="password" />
+    <string name="signup" />
+    <string name="submit" />
+    <string name="take_picture" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="something">Something......</string>
+</resources>
